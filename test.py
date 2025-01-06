@@ -30,7 +30,4 @@ print("购物车里商品的总价格为{:.2f}".format(decimal.Decimal(total_pri
 
 
 
-     
-
-
         
