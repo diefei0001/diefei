@@ -1,9 +1,9 @@
 <map version="freeplane 1.12.1">
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
-<node TEXT="云计算起源与影响" FOLDED="false" ID="ID_107805750" CREATED="1741575111318" MODIFIED="1741575526082" BACKGROUND_COLOR="#0099ff" STYLE="narrow_hexagon" UNIFORM_SHAPE="true" MAX_WIDTH="55.83837 pt" MIN_WIDTH="55.83837 pt" VGAP_QUANTITY="12.75 pt">
+<node TEXT="云计算起源与发展" FOLDED="false" ID="ID_107805750" CREATED="1741575111318" MODIFIED="1741578536999" BACKGROUND_COLOR="#0099ff" STYLE="narrow_hexagon" UNIFORM_SHAPE="true" MAX_WIDTH="55.83837 pt" MIN_WIDTH="55.83837 pt" VGAP_QUANTITY="12.75 pt">
 <font SIZE="10"/>
 <hook NAME="MapStyle">
-    <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#000000ff,#ff0033ff,#009933ff,#3333ffff,#ff6600ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff" show_note_icons="true" associatedTemplateLocation="template:/BigMap.mm" fit_to_viewport="false" show_icons="BESIDE_NODES" show_tags="UNDER_NODES"/>
+    <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#000000ff,#ff0033ff,#009933ff,#3333ffff,#ff6600ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff" show_tags="UNDER_NODES" show_note_icons="true" associatedTemplateLocation="template:/BigMap.mm" fit_to_viewport="false" show_icons="BESIDE_NODES"/>
     <tags category_separator="::"/>
 
 <map_styles>
@@ -95,7 +95,7 @@
 <font NAME="华文仿宋"/>
 </node>
 </node>
-<node TEXT="起源与发展" POSITION="top_or_left" ID="ID_1291983683" CREATED="1741575492505" MODIFIED="1741577741121">
+<node TEXT="起源" POSITION="top_or_left" ID="ID_1291983683" CREATED="1741575492505" MODIFIED="1741578543895">
 <font NAME="华文仿宋"/>
 <node TEXT="Salesforce.com  引入提供远程服务的概念" ID="ID_1578000059" CREATED="1741575581602" MODIFIED="1741575626307"/>
 <node TEXT="Amazon Web服务" ID="ID_1711916651" CREATED="1741575628667" MODIFIED="1741577732346">
