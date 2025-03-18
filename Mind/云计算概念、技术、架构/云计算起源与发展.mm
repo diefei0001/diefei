@@ -2,7 +2,7 @@
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
 <node TEXT="云计算起源与发展" FOLDED="false" ID="ID_107805750" CREATED="1741575111318" MODIFIED="1741578536999" BACKGROUND_COLOR="#0099ff" STYLE="narrow_hexagon" UNIFORM_SHAPE="true" MAX_WIDTH="55.83837 pt" MIN_WIDTH="55.83837 pt" VGAP_QUANTITY="12.75 pt">
 <font SIZE="10"/>
-<hook NAME="MapStyle">
+<hook NAME="MapStyle" zoom="1.1">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#000000ff,#ff0033ff,#009933ff,#3333ffff,#ff6600ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff" show_tags="UNDER_NODES" show_note_icons="true" associatedTemplateLocation="template:/BigMap.mm" fit_to_viewport="false" show_icons="BESIDE_NODES"/>
     <tags category_separator="::"/>
 
@@ -56,6 +56,20 @@
 </hook>
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
 <hook NAME="AutomaticEdgeColor" COUNTER="0" RULE="FOR_COLUMNS"/>
+<node TEXT="领先" LOCALIZED_STYLE_REF="defaultstyle.floating" POSITION="bottom_or_right" ID="ID_792557035" CREATED="1741836319192" MODIFIED="1741836381738" HGAP_QUANTITY="-261.00001 pt" VSHIFT_QUANTITY="-99.6 pt">
+<hook NAME="FreeNode"/>
+<font NAME="华文仿宋"/>
+</node>
+<node TEXT="滞后" LOCALIZED_STYLE_REF="defaultstyle.floating" POSITION="bottom_or_right" ID="ID_1924286795" CREATED="1741836327971" MODIFIED="1741836441713" HGAP_QUANTITY="-144 pt" VSHIFT_QUANTITY="-96.6 pt">
+<arrowlink SHAPE="CUBIC_CURVE" DASH="3 3" DESTINATION="ID_1175936686" STARTARROW="DEFAULT" ENDARROW="NONE"/>
+<hook NAME="FreeNode"/>
+<font NAME="华文仿宋"/>
+</node>
+<node TEXT="匹配" LOCALIZED_STYLE_REF="defaultstyle.floating" POSITION="bottom_or_right" ID="ID_222541170" CREATED="1741836333435" MODIFIED="1741836460206" HGAP_QUANTITY="-89.4 pt" VSHIFT_QUANTITY="-60 pt">
+<arrowlink SHAPE="CUBIC_CURVE" DASH="3 3" DESTINATION="ID_1175936686" STARTARROW="DEFAULT" ENDARROW="NONE"/>
+<hook NAME="FreeNode"/>
+<font NAME="华文仿宋"/>
+</node>
 <node TEXT="云计算定义" POSITION="bottom_or_right" ID="ID_197967435" CREATED="1741575120577" MODIFIED="1741577749531">
 <font NAME="华文仿宋"/>
 <node TEXT="分布式计算的一种形式，它引入效用模型远程提供可拓展可测量的资源" ID="ID_205868776" CREATED="1741575742574" MODIFIED="1741575824579"/>
@@ -65,13 +79,16 @@
 <node TEXT="" ID="ID_1667073711" CREATED="1741575716719" MODIFIED="1741575716719">
 <hook NAME="FirstGroupNode"/>
 </node>
-<node TEXT="IT资源的容量规划" ID="ID_1175936686" CREATED="1741575206276" MODIFIED="1741577715205">
+<node TEXT="IT资源的容量规划" ID="ID_1175936686" CREATED="1741575206276" MODIFIED="1741836416707">
+<arrowlink SHAPE="CUBIC_CURVE" DASH="3 3" DESTINATION="ID_792557035" STARTINCLINATION="75.6 pt;4.2 pt;" ENDINCLINATION="65.4 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <font NAME="华文仿宋"/>
 </node>
 <node TEXT="IT资源的成本问题" ID="ID_900671312" CREATED="1741575263697" MODIFIED="1741577715232">
 <font NAME="华文仿宋"/>
 </node>
-<node TEXT="企业变化对IT资源的动态需求" ID="ID_666682686" CREATED="1741575278102" MODIFIED="1741576074031"/>
+<node TEXT="企业变化对IT资源的动态需求" ID="ID_666682686" CREATED="1741575278102" MODIFIED="1741834738334">
+<font NAME="华文仿宋"/>
+</node>
 <node TEXT="" ID="ID_1523385136" CREATED="1741575716719" MODIFIED="1741575716719">
 <hook NAME="SummaryNode"/>
 <hook NAME="AlwaysUnfoldedNode"/>

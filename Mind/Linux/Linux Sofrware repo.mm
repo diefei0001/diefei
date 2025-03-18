@@ -2,8 +2,8 @@
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
 <node TEXT="Linux Sofrware &amp;repo" FOLDED="false" ID="ID_107805750" CREATED="1741532669033" MODIFIED="1741535780354" BACKGROUND_COLOR="#0099ff" STYLE="narrow_hexagon" UNIFORM_SHAPE="true" MAX_WIDTH="55.83837 pt" MIN_WIDTH="55.83837 pt" VGAP_QUANTITY="12.75 pt">
 <font SIZE="10"/>
-<hook NAME="MapStyle" zoom="1.21">
-    <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#000000ff,#ff0033ff,#009933ff,#3333ffff,#ff6600ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff" show_note_icons="true" associatedTemplateLocation="template:/BigMap.mm" fit_to_viewport="false" show_icons="BESIDE_NODES" show_tags="UNDER_NODES"/>
+<hook NAME="MapStyle" zoom="1.1">
+    <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#000000ff,#ff0033ff,#009933ff,#3333ffff,#ff6600ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff" show_tags="UNDER_NODES" show_note_icons="true" associatedTemplateLocation="template:/BigMap.mm" fit_to_viewport="false" show_icons="BESIDE_NODES"/>
     <tags category_separator="::"/>
 
 <map_styles>
@@ -12,7 +12,7 @@
 <stylenode LOCALIZED_TEXT="styles.predefined" POSITION="bottom_or_right" STYLE="bubble">
 <font SIZE="9"/>
 <stylenode LOCALIZED_TEXT="default" ID="ID_1273250224" ICON_SIZE="12 pt" FORMAT_AS_HYPERLINK="false" COLOR="#000000" STYLE="bubble" SHAPE_VERTICAL_MARGIN="0 pt" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="CENTER" MAX_WIDTH="90 pt" MIN_WIDTH="90 pt" VGAP_QUANTITY="2 pt" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID">
-<arrowlink SHAPE="LINEAR_PATH" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" DASH="" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1273250224" STARTINCLINATION="100.5 pt;0 pt;" ENDINCLINATION="100.5 pt;6.75 pt;" STARTARROW="DEFAULT" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="LINEAR_PATH" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" DASH="" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1273250224" STARTINCLINATION="100.2 pt;0 pt;" ENDINCLINATION="100.2 pt;6.6 pt;" STARTARROW="DEFAULT" ENDARROW="DEFAULT"/>
 <font NAME="Arial" SIZE="9" BOLD="true" STRIKETHROUGH="false" ITALIC="false"/>
 <edge STYLE="bezier" COLOR="#808080" WIDTH="3" DASH="SOLID"/>
 <richcontent TYPE="DETAILS" CONTENT-TYPE="plain/auto"/>
@@ -72,7 +72,9 @@
 <node TEXT="software_name" ID="ID_41851463" CREATED="1741532758342" MODIFIED="1741532761756"/>
 </node>
 <node TEXT="search" ID="ID_1123157057" CREATED="1741535597833" MODIFIED="1741535604910" HGAP_QUANTITY="21.5 pt" VSHIFT_QUANTITY="21.75 pt">
-<node TEXT="software_name" ID="ID_1795335665" CREATED="1741535632675" MODIFIED="1741535637360"/>
+<node TEXT="software_name" ID="ID_1795335665" CREATED="1741535632675" MODIFIED="1741535637360">
+<node TEXT="--repo=xxxx" ID="ID_840025367" CREATED="1741741385550" MODIFIED="1741741419078"/>
+</node>
 </node>
 <node TEXT="list installed" ID="ID_528441324" CREATED="1741535608617" MODIFIED="1741535617008" VSHIFT_QUANTITY="23.25 pt"/>
 <node TEXT="info" ID="ID_655866346" CREATED="1741535627256" MODIFIED="1741535630371" HGAP_QUANTITY="31.25 pt" VSHIFT_QUANTITY="28.5 pt">
