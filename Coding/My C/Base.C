@@ -10,3 +10,4 @@ int main(void)
     printf("十进制：%d 八进制:%#08o 十六进制:%#x\n",num ,num,num );
     printf("%d,%d,%d",num1,num2,num3);
 }
+prinf
