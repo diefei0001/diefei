@@ -2,6 +2,7 @@
 
 int main() {
     char apple;
-    apple = '\040';
-    printf("%c",apple);
+    apple ='a';
+    int x = 10;
+    printf()
 }
