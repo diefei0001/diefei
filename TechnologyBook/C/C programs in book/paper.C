@@ -1,11 +1,8 @@
 #include <stdio.h>
-
 int main(void)
 {
-    int  a ;
-    char b ;
-    scanf("%d", &a);
-    scanf(" %c", &b);
-    printf("%d",a);
-    printf("%c1",b);
+    char new_str[40] = " to day "
+"is a good " "day";
+    printf("%s",new_str);
+
 }
